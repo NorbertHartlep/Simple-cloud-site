@@ -1,0 +1,38 @@
+.img1{
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    right: 128px;
+    width: 135px;
+    height: 41px;
+}
+.img2{
+    top:35px;
+    position: absolute;
+    left: 313px;
+    width: 97px;
+    height: 29px;
+    opacity: 1;
+}
+.img3{
+    position: absolute;
+    top: 159px;
+    left: 1017px;
+    width: 527px;
+    height: 527px;
+    background: transparent url('../../images/svg/Group\ 250.svg') 0% 0% no-repeat padding-box;
+    mix-blend-mode: multiply;
+    opacity: 1;
+    margin-left: 82px;
+}
+.img4{
+    position: absolute;
+    top: 50%;
+    margin-top: -15px;
+    margin-left: -15px;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    background: transparent url('../../images/svg/Icon\ feather-arrow-down.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

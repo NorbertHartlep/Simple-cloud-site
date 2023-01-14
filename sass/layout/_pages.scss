@@ -1,0 +1,97 @@
+.pg1{
+    font: normal normal normal 17px/30px Circular Std Book;
+    position: relative;
+   left: 0px;
+   height: 665px;
+   width: 1921px;
+}
+.pg2{
+    font: normal normal normal 16px/28px Circular Std Book;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    gap:103px;
+    left: 0px;
+    width: 1921px;
+    height: 441px;
+    span{
+        text-align: left;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+}
+.pg3{
+    font: normal normal normal 17px/30px Circular Std Book;
+    position: relative;
+    height: 725px;
+    width: 1921px;
+    h3{
+        font: normal normal normal 42px/58px Circular Std Book;
+        position: absolute;
+        margin: 100px 0px 158px 0px;
+        left: 310px;
+        width: 226px;
+        height: 42px;
+        text-align: left;
+        letter-spacing: 0px;
+        color: #333333;
+        opacity: 1;
+    }
+}
+.pg4{
+    font: normal normal normal 22px/28px Circular Std Book;
+    position: relative;
+    align-items:center;
+    justify-content: center;
+    left: 0px;
+    width: 1921px;
+    height: 893px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    h3{
+        font: normal normal normal 42px/58px Circular Std Book;
+        margin-top: 102px;
+        position: absolute;
+        left: 313px;
+        width: 389px;
+        height: 42px;
+        text-align: left;
+        letter-spacing: 0px;
+        color: #333333;
+        opacity: 1;
+    }
+}
+.pg5{
+    font: normal normal normal 17px/30px Circular Std Book;
+    height: 676px;
+    width: 1921px;
+
+        h2{
+            font: normal normal normal 65px/71px Circular Std Book;
+        margin: 50px 0px 100px 0px;
+        top: 240px;
+        position: relative;
+        left: 661px;
+        width: 598px;
+        height: 135px;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #333333;
+        opacity: 1;
+        }
+    span.log-in{
+        position: absolute;
+        top: 3395px;
+        left: 772px;
+        width: 131px;
+        height: 17px;
+        text-align: left;
+        text-decoration: underline;
+        letter-spacing: 0px;
+        color: #E59730;
+        opacity: 1;
+    }
+}

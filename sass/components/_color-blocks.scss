@@ -1,0 +1,43 @@
+.col{
+   position: absolute;
+    width: 1000px;
+    height: 1000px;
+    
+}
+.col1{
+    color: #713A8E;
+}
+.col2{
+    color: #E59730;
+}
+.col3{
+    color: #72BE8E;
+}
+.col4{
+    color: #51BBEC;
+}
+.col-blue{
+    top: 360px;
+    left: -363px;
+    background: transparent radial-gradient(closest-side at 50% 50%, #713A8E 0%, #51BBEC 0%, #FBFBFB00 100%) 0% 0% no-repeat padding-box;
+    opacity: 0.3;
+}
+.col-orange{
+    top: 360px;
+    left: 735px;
+    background: transparent radial-gradient(closest-side at 50% 50%, #713A8E 0%, #E59730 0%, #FBFBFB00 100%) 0% 0% no-repeat padding-box;
+    opacity: 0.3;
+}
+.col-violet{
+    top: 360px;
+    left: 186px;
+    background: transparent radial-gradient(closest-side at 50% 50%, #713A8E 0%, #713A8E 0%, #FBFBFB00 100%) 0% 0% no-repeat padding-box;
+    opacity: 0.2;
+}
+.col-green{
+    width: 636px;
+    top: 360px;
+    left: 1284px;
+    background: transparent radial-gradient(closest-side at 50% 50%, #713A8E 0%, #72BE8E 0%, #FBFBFB00 100%) 0% 0% no-repeat padding-box;
+    opacity: 0.3;
+}

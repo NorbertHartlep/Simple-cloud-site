@@ -1,0 +1,22 @@
+/* VARIABLES */
+@import 'abstract/variables.scss';
+
+/* COMPONENTS */
+@import 'components/button';
+@import 'components/images';
+@import 'components/pg2-texts';
+@import 'components/pg1-file';
+@import 'components/color-blocks';
+@import 'components/pg4-contentblock';
+@import 'components/pg3-contentblock';
+@import 'components/ball-with-arrow';
+/* LAYOUT */
+@import 'layout/_footer';
+@import 'layout/nav';
+@import 'layout/pages';
+@import 'layout/body.scss';
+/* FONT */
+@font-face {
+    font-family: Circular Std Book;
+    src: url('../fonts/FontsFree-Net-Circular-Std-Book-2.ttf');
+}
